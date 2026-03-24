@@ -11,6 +11,20 @@ This repository contains my AI-generated image and video projects focused on cin
 - AI Image Generation
 - Ad Concept Design
 ## Projects
-(Add your project details here)
+## 🌿 Garnier AI Ad Campaign
+
+### Concept: Skincare Product Visuals
+
+![Ad 1](IMG_7877.PNG)
+![Ad 2](IMG_7878.PNG)
+![Ad 3](IMG_7879.PNG)
+![Ad 4](IMG_7880.PNG)
+![Ad 5](IMG_7881.PNG)
+
+🧠 Prompt:
+Hyper-realistic Garnier skincare advertisement, fresh green theme, glowing skin, water droplets, natural lighting, premium product focus, commercial photography style, 4K
+
+🎯 Goal:
+To create a modern skincare advertisement using AI tools and prompt engineering techniques.
 ## Goal
 To showcase my skills in AI content creation and visual storytelling.
