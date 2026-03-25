@@ -75,5 +75,4 @@ Luxury Raymond menswear advertisement, cinematic lighting, elegant poses, premiu
 
 🎯 Goal:  
 To create a premium fashion advertisement focusing on elegance, class, and modern storytelling using AI tools.
-## Goal
-To showcase my skills in AI content creation and visual storytelling.
+
