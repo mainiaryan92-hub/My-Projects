@@ -26,6 +26,17 @@ Hyper-realistic Garnier skincare advertisement, fresh green theme, glowing skin,
 
 🎯 Goal:
 To create a modern skincare advertisement using AI tools and prompt engineering techniques.
+## 👟 Kloemaril Footwear AI Advertisement
+
+### Concept: Modern Footwear & Street Style
+
+Watch Video:
+[Click here](https://github.com/mainiaryan92-hub/My-Projects/raw/refs/heads/main/IMG_8033%20(1).MP4)
+💡 Prompt:  
+Luxury footwear advertisement, cinematic close-ups, dynamic camera angles, detailed textures, modern street style, high-end product focus, 4K
+
+🎯 Goal:  
+To create a stylish and modern footwear advertisement showcasing product aesthetics and motion using AI tools.
 ## 🍺 Heineken AI Ad Campaign
 
 ### Concept: Premium Beverage Visuals
