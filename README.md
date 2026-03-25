@@ -52,5 +52,17 @@ Hyper-realistic iPhone advertisement, cinematic lighting, smooth transitions, pr
 
 🎯 Goal:  
 To create a high-end smartphone advertisement using AI tools and cinematic storytelling.
+## 👔 Raymond AI Advertisement
+
+### Concept: Luxury Fashion & Elegance
+
+Watch Video:
+[Click here](https://github.com/mainiaryan92-hub/My-Projects/raw/refs/heads/main/IMG_8037.MOV)
+
+💡 Prompt:  
+Luxury Raymond menswear advertisement, cinematic lighting, elegant poses, premium fabric texture, slow motion transitions, high-end fashion campaign, 4K
+
+🎯 Goal:  
+To create a premium fashion advertisement focusing on elegance, class, and modern storytelling using AI tools.
 ## Goal
 To showcase my skills in AI content creation and visual storytelling.
