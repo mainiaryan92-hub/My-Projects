@@ -26,5 +26,19 @@ Hyper-realistic Garnier skincare advertisement, fresh green theme, glowing skin,
 
 🎯 Goal:
 To create a modern skincare advertisement using AI tools and prompt engineering techniques.
+## 🍺 Heineken AI Ad Campaign
+
+### Concept: Premium Beverage Visuals
+
+![Ad 1](IMG_7872.PNG)
+![Ad 2](IMG_7874.PNG)
+![Ad 3](IMG_7875.PNG)
+![Ad 4](IMG_7876.PNG)
+
+🧠 *Prompt:*
+Hyper-realistic Heineken beer advertisement, cinematic lighting, condensation droplets, premium glass texture, dark luxury background, 4K
+
+🎯 *Goal:*
+To create a high-end beverage advertisement using AI tools and visual storytelling.
 ## Goal
 To showcase my skills in AI content creation and visual storytelling.
