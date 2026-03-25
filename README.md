@@ -34,7 +34,8 @@ To create a modern skincare advertisement using AI tools and prompt engineering 
 ![Ad 2](IMG_7874.PNG)
 ![Ad 3](IMG_7875.PNG)
 ![Ad 4](IMG_7876.PNG)
-
+Watch Video:
+[Click here](https://github.com/mainiaryan92-hub/My-Projects/raw/refs/heads/main/IMG_8036.MOV)
 🧠 *Prompt:*
 Hyper-realistic Heineken beer advertisement, cinematic lighting, condensation droplets, premium glass texture, dark luxury background, 4K
 
